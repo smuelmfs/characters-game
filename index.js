@@ -1,5 +1,5 @@
-const Mage = require('./Mage')
 const Thief = require('./Thief')
+const Mage = require('./Mage')
 const Warrior = require('./Warrior')
 
 const yodao = new Mage('Yodao', 90, 4, 2, 14)
